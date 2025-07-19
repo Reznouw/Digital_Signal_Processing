@@ -1,0 +1,1 @@
+net1 = patternnet(400); %Configuro la NN
